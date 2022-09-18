@@ -7,3 +7,6 @@ A Nightlight theme for Spicetify (Spotify). A relaxing, simple theme that includ
 
 ## Author
 Made by: https://github.com/iTenerai
+
+## How to use
+To use Nightlight Theme on Spotify, it is required to have [Spicetify](https://github.com/spicetify/spicetify-cli) downloaded and applied on Spotify. Then simply paste the Nightlight theme into the themes folder.
